@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=3 uid="uid://cuomcqs40f5g1"]
+
+[ext_resource type="Script" path="res://scripts/Paddle_C.gd" id="1_wha51"]
+[ext_resource type="Texture2D" uid="uid://ccfhtyjh7j3hg" path="res://assets/shapes/Srar.png" id="2_gxgdb"]
+
+[node name="Paddle_C" type="CharacterBody2D"]
+script = ExtResource("1_wha51")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.399999, 0.399999)
+texture = ExtResource("2_gxgdb")
+
+[node name="CollisionPolygon2D" type="CollisionPolygon2D" parent="."]
+scale = Vector2(0.399999, 0.399999)
+polygon = PackedVector2Array(17, -241.9, 17, -239.5, 87.3, -97, 92.2, -97, 246, -73.7, 246, -72.1, 256, -66.3, 256, -45, 141, 69.8, 141, 73.7, 167, 222.8, 167, 238.6, 160.4, 248, 136.8, 248, 9.39999, 179, 7.60001, 179, -0.800003, 175.6, -136.7, 248, -160, 248, -167, 239.8, -167, 235, -168.3, 226, -166.7, 226, -141.3, 70.5, -256, -43.2, -256, -66, -247.8, -73, -244.3, -73, -235.3, -76, -228.3, -76, -87.9, -96.8, -16.2, -243, -14.8, -243, -10, -247.8, 10, -248)

@@ -1,0 +1,30 @@
+2a60927148abd1d33b818b535e306557
+::res://::1705364854
+icon.svg::CompressedTexture2D::7994281211505096366::1702844490::1702844495::1::::<><>::
+::res://assets/::1702851658
+::res://assets/shapes/::1702851687
+Circle 2.png::CompressedTexture2D::7529547522219743028::1702851678::1702851687::1::::<><>::
+Circle.png::CompressedTexture2D::7854768046256010688::1702851678::1702851687::1::::<><>::
+Heart 2.png::CompressedTexture2D::2036045665661274125::1702851678::1702851687::1::::<><>::
+Heart.png::CompressedTexture2D::2998188653201122024::1702851678::1702851687::1::::<><>::
+Hexagon 2.png::CompressedTexture2D::3855030615933598828::1702851678::1702851687::1::::<><>::
+Hexagon.png::CompressedTexture2D::412673548160291445::1702851678::1702851687::1::::<><>::
+Pentagon 2.png::CompressedTexture2D::5057358785392708933::1702851678::1702851687::1::::<><>::
+Pentagon.png::CompressedTexture2D::4493932534980302223::1702851678::1702851687::1::::<><>::
+Square2.png::CompressedTexture2D::8969049638870783473::1702851678::1702851687::1::::<><>::
+Square.png::CompressedTexture2D::8449335166885791024::1702851678::1702851687::1::::<><>::
+Srar.png::CompressedTexture2D::4924001167290964300::1702851678::1702851687::1::::<><>::
+Star 2.png::CompressedTexture2D::5669616840399495751::1702851678::1702851687::1::::<><>::
+Triangle 2.png::CompressedTexture2D::7013276339060555076::1702851678::1702851687::1::::<><>::
+Triangle.png::CompressedTexture2D::6586451343505253011::1702851678::1702851687::1::::<><>::
+::res://scenes/::1705364628
+Level.tscn::PackedScene::2729405102771484202::1705364628::0::1::::<><>::res://scripts/Level.gd
+Paddle_A.tscn::PackedScene::292312832042651840::1705363857::0::1::::<><>::res://scripts/Paddle_A.gd<>uid://dsm6ky8wo4bc7
+Paddle_B.tscn::PackedScene::8473743866303152966::1705363857::0::1::::<><>::res://scripts/Paddle_B.gd<>uid://c03r5kna8ip7h
+Paddle_C.tscn::PackedScene::6206252573736042934::1705363857::0::1::::<><>::res://scripts/Paddle_C.gd<>uid://ccfhtyjh7j3hg
+::res://scripts/::1705364339
+Level.gd::GDScript::-1::1705364339::0::1::::<>Node2D<>::
+Paddle_A.gd::GDScript::-1::1703052891::0::1::::<>CharacterBody2D<>::
+Paddle_B.gd::GDScript::-1::1703054873::0::1::::<>CharacterBody2D<>::
+Paddle_Base.gd::GDScript::-1::1703052526::0::1::::<>CharacterBody2D<>::
+Paddle_C.gd::GDScript::-1::1703055694::0::1::::<>CharacterBody2D<>::

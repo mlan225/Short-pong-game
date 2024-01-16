@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://be5e5yggk1rfm"]
+
+[ext_resource type="Script" path="res://scripts/Level.gd" id="1_spypb"]
+
+[node name="Level" type="Node2D"]
+script = ExtResource("1_spypb")
+
+[node name="paddleStartPosition" type="Node2D" parent="."]
+position = Vector2(579, 557)

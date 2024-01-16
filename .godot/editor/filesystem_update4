@@ -1,0 +1,5 @@
+res://scenes/Level.tscn
+res://scenes/Paddle_A.tscn
+res://scenes/Paddle_B.tscn
+res://scenes/Paddle_C.tscn
+res://scripts/Level.gd
